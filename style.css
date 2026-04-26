@@ -1,0 +1,7 @@
+.resultado {
+    color: green;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+    transition: 0.5s;
+}
